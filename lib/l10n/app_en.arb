@@ -1,0 +1,56 @@
+{
+  "appTitle": "Pierre Meignan | Portfolio",
+  "greeting": "Hi, I’m Pierre 👋",
+  "tagline": "Mobile developer (Flutter, Kotlin & Swift) focused on fast, well-designed apps.",
+
+  "aboutTitle": "About me",
+  "aboutParagraph": "Mobile developer (Flutter, Kotlin & Swift) building performant, maintainable and user‑centric apps. I apply best practices (Clean Architecture, testing, CI/CD) and work closely with product, design and backend.",
+
+  "projectsTitle": "My Projects",
+  "seeDetails": "See details",
+  "seeProject": "Open project",
+  "collapse": "Collapse",
+  "enlargeImage": "Enlarge image",
+  "close": "Close",
+
+  "contactTitle": "Contact",
+  "sendEmail": "Send Email",
+  "seeLinkedIn": "See LinkedIn",
+  "seeGitHub": "See GitHub",
+  "downloadShortCV": "Download CV (short)",
+  "downloadFullCV": "Download CV (full)",
+
+  "skillsGroupStack": "Mobile stack",
+  "skillsGroupArch": "Architecture & State",
+  "skillsGroupApis": "APIs & Data",
+  "skillsGroupCloud": "Cloud & Observability",
+  "skillsGroupCICD": "CI/CD & Delivery",
+  "skillsGroupQuality": "Quality & Security",
+  "skillsGroupUX": "UX/UI",
+  "loading": "Loading…",
+  "retry": "Retry",
+  "splashErrorMessage": "Loading failed.\nCheck your connection.",
+  "navAbout": "About",
+  "navSkills": "Skills",
+  "navProjects": "Projects",
+  "navContact": "Contact",
+  "navAboutTooltip": "Go to About section",
+  "navSkillsTooltip": "Go to Skills section",
+  "navProjectsTooltip": "Go to Projects section",
+  "navContactTooltip": "Go to Contact section",
+  "toggleToLight": "Switch to light theme",
+  "toggleToDark": "Switch to dark theme",
+  "cvRole": "Mobile Developer — Flutter / Kotlin / Swift",
+  "cvContacts": "Contacts",
+  "cvGithub": "GitHub",
+  "cvLinkedIn": "LinkedIn",
+  "cvKeyProjects": "Key projects",
+  "cvAllProjects": "Projects",
+  "cvPage": "Page {page} / {pages}",
+  "@cvPage": {
+    "placeholders": {
+      "page": { "type": "int" },
+      "pages": { "type": "int" }
+    }
+  }
+}

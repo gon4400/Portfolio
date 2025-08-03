@@ -1,0 +1,56 @@
+{
+  "appTitle": "Pierre Meignan | Portfolio",
+  "greeting": "Salut, je suis Pierre 👋",
+  "tagline": "Développeur Flutter, Kotlin & Swift passionné par les apps performantes et bien pensées.",
+
+  "aboutTitle": "À propos de moi",
+  "aboutParagraph": "Développeur mobile Flutter, Kotlin & Swift, je conçois des applications performantes, maintenables et orientées utilisateur. J’applique les bonnes pratiques (Clean Architecture, tests, CI/CD) et je collabore efficacement avec produit, design et backend.",
+
+  "projectsTitle": "Mes Projets",
+  "seeDetails": "Voir détails",
+  "seeProject": "Voir le projet",
+  "collapse": "Réduire",
+  "enlargeImage": "Agrandir l’image",
+  "close": "Fermer",
+
+  "contactTitle": "Contact",
+  "sendEmail": "Envoyer un Email",
+  "seeLinkedIn": "Voir LinkedIn",
+  "seeGitHub": "Voir GitHub",
+  "downloadShortCV": "Télécharger CV (court)",
+  "downloadFullCV": "Télécharger CV (complet)",
+
+  "skillsGroupStack": "Stack mobile",
+  "skillsGroupArch": "Architecture & State",
+  "skillsGroupApis": "APIs & Données",
+  "skillsGroupCloud": "Cloud & Observabilité",
+  "skillsGroupCICD": "CI/CD & Livraison",
+  "skillsGroupQuality": "Qualité & Sécurité",
+  "skillsGroupUX": "UX/UI",
+  "loading": "Chargement…",
+  "retry": "Réessayer",
+  "splashErrorMessage": "Erreur de chargement.\nVérifiez votre connexion.",
+  "navAbout": "À propos",
+  "navSkills": "Compétences",
+  "navProjects": "Projets",
+  "navContact": "Contact",
+  "navAboutTooltip": "Aller à la section À propos",
+  "navSkillsTooltip": "Aller à la section Compétences",
+  "navProjectsTooltip": "Aller à la section Projets",
+  "navContactTooltip": "Aller à la section Contact",
+  "toggleToLight": "Passer au thème clair",
+  "toggleToDark": "Passer au thème sombre",
+  "cvRole": "Développeur mobile Flutter / Kotlin / Swift",
+  "cvContacts": "Coordonnées",
+  "cvGithub": "GitHub",
+  "cvLinkedIn": "LinkedIn",
+  "cvKeyProjects": "Projets clés",
+  "cvAllProjects": "Projets",
+  "cvPage": "Page {page} / {pages}",
+  "@cvPage": {
+    "placeholders": {
+      "page": { "type": "int" },
+      "pages": { "type": "int" }
+    }
+  }
+}
